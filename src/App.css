@@ -10,3 +10,8 @@
 *:focus {
   outline: none;
 }
+
+.page {
+  display: flex;
+  height: 100vh;
+}
